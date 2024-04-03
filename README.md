@@ -1,0 +1,5 @@
+-Engineered a Currency Conversion project using Microservice Architecture. 
+-Established communication between Microservices. 
+-Implemented LoadBalacing with Eureka, Feign and Spring Cloud LoadBalancer. 
+-Create custom routing configurations using Spring Cloud Gateway. 
+-Incorporated fault tolerance mechanism using Resilience4j.
